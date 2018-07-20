@@ -1,4 +1,4 @@
-package org.markwilliamson.resttest;
+package com.markwilliamson.productpackagemanagement;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
