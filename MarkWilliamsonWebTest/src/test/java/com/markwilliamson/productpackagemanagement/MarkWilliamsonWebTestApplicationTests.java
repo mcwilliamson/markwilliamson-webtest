@@ -20,7 +20,7 @@ import com.markwilliamson.productpackagemanagement.service.product.ProductNotFou
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class RestTestSpringBootApplicationTests {
+public class MarkWilliamsonWebTestApplicationTests {
 	
 	@Autowired
 	CurrencyConversionService fixerIoCurrencyConversionService;
