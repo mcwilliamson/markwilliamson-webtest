@@ -8,6 +8,8 @@ https://github.com/mcwilliamson/markwilliamson-webtest
 
 Service Installation
 ====================
+Download the source code. If downloaded as a ZIP, please unzip the file. 
+
 Navigate to the folder containing the source code (which will contain the mvnw file and .mvn folder) - we'll refer to this as <base_source_code_folder>. 
 
 Run: 
